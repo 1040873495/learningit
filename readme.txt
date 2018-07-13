@@ -6,5 +6,5 @@ to merge branch with a new append.
 
 This is a new branch of feature3
 
-no-diff
+the new no-diff merge
 
